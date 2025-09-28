@@ -1,0 +1,24 @@
+{
+  "name": "restapiproj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhumoutam/Restapiproj.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madhumoutam/Restapiproj/issues"
+  },
+  "homepage": "https://github.com/madhumoutam/Restapiproj#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.18.2",
+    "nodemon": "^3.1.9"
+  }
+}
